@@ -1,0 +1,7 @@
+rich
+numpy
+pygetwindow
+keyboard
+requests
+tqdm
+opencv-python
